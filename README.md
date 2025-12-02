@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="welcome.png" alt="Hello, I'm Betsara" width="600">
-</p>
+<img src="welcome.png" alt="Hello, I'm Betsara" href="https://github.com/Betsara-MARCELLIN">
