@@ -1,1 +1,7 @@
-<img src="welcome.png" alt="Hello, I'm Betsara" href="https://github.com/Betsara-MARCELLIN">
+<a href="https://github.com/Betsara-MARCELLIN">
+<picture>
+    <source srcset="./welcome-light.png" media="(prefers-color-scheme: light)">
+    <source srcset="./welcome-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="./welcome-light.png" alt="welcome banner">
+</picture>
+</a>
